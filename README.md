@@ -20,8 +20,12 @@ Then click on the <b>load unpacked</b>, and upload the extracted file. This will
 
 Make sure that the extension is ON.
 
-## <b>Open the new tab</b>
-This will be the output.
+### <b>Step 4</b>
+Open a new tab. A pop will come, then click on <b>Keep it</b>
+
+![image](https://user-images.githubusercontent.com/96643129/221927413-035fa1c6-3ea8-4d3b-b2aa-bd8e7b308370.png)
+
+And this will be your final output.
 
 ![image](https://user-images.githubusercontent.com/96643129/221925965-7201aa96-ef82-4e8a-98bf-65c891326e72.png)
 
